@@ -1,0 +1,17 @@
+{
+  "name": "nm_node_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascripting": "^2.6.1",
+    "request": "^2.88.0",
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+console.log(process.argv.slice(2).reduce((a, c) => { return a + +c }, 0 ));
